@@ -78,6 +78,6 @@ print(type(('Asabeneh', 'Pawel', 'Brook', 'Abraham', 'Lidiya'))) # tuple
 A set is a collection of data types similar to list and tuple. Unlike list and tuple, set is not an ordered collection of items. 
 Like in Mathematics, set in Python stores only unique items."""
 
-#This is a Set
+#This is a Set(Conjunto)
 print({2, 4, 3, 5,1}) #set decides how to display the order
 print(type({2, 4.4, 3, 5})) #set
